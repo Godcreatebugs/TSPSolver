@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CMSC818B Homework 1 - Travelling Salesman Problem
 The Travelling Salesman Problem is to find the shortest possible route that visits every city in a given list of cities and returning to the origin for the tour to be complete. It is an NP-hard problem in combinatorial optimization. This implementation of the Travelling Salesman Problem is based on Kruskal's agorithm to find minimum spanning trees.
 
