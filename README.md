@@ -23,7 +23,4 @@ eg.,
 ```
 ./tsp ../eil51.tsp
 ```
-This will generate the output file containing the tour with name eil51.out.tour
-=======
-# TSPSolver-
-This is the repository for Travelling Sales Person Problem which is NP-Hard Problem.
+This will generate the output file containing the tour with name eil51.out.tour.
